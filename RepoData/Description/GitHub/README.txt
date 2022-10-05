@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+The Halloween Assistant is ready to assist you to help you get the most out of Halloween by managing candy supplies, serving tricks and treats, and giving general advice and lessons.
